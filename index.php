@@ -98,18 +98,13 @@
               <div class="col-md-112 text-center">
                 <div class="block-heading-">
                   <h2 class="cepa-blue-text mb-4 text-uppercase section-title">About Us<span class="dot"></span></h2>
-                  <p class="black-text aboutxt">Wanacel Foundation is a Women Advocacy for National Accountability, Equity and Liberty NGO (Non-Governmental Organization) founded on 4<sup>th</sup>/4/2016. The organization operates in the Northern Uganda Districts of Lira, Gulu and Moroto. Lira is the regional head office. with a clear vision
-                    of creating a self-sustaining generation of women, girls and child headed families and has the following aims in the community. To improve and promote food security in households. To create income generating activities among women and child headed families.
-                      To revitalize minds of all communities about gender development and equal rights for everyone.
-                      To increase awareness about the acceptable health standards among Youth and children suffering from other opportunistic infections.
-                      To increase general awareness among all categories of people on HIV and AIDS.
-                    <!--<ul class="obj-list">
-                      <li class="black-text">To improve and promote food security in households.</li>
-                      <li class="black-text">To create income generating activities among women and child headed families.</li>
-                      <li class="black-text">To revitalize minds of all communities about gender development and equal rights for everyone.</li>
-                      <li class="black-text">To increase awareness about the acceptable health standards among Youth and children suffering from other opportunistic infections.</li>
-                      <li class="black-text">To increase general awareness among all categories of people on HIV and AIDS.</p></li>
-                    </ul> -->
+                  <p class="black-text aboutxt">Ad quis veniam labore mollit et culpa dolore aliqua aliquip. Lorem nostrud anim proident sit aliqua Lorem deserunt culpa amet dolor labore. Mollit qui eiusmod id consectetur dolor nisi voluptate officia exercitation. Irure consectetur incididunt dolore veniam dolore consequat incididunt et. Irure cillum duis duis anim. Est esse eiusmod nulla aute laboris ipsum velit laborum. Do nulla excepteur elit adipisicing anim laborum nisi ullamco cillum.
+
+Deserunt eu ex adipisicing id et eiusmod officia consectetur. Pariatur elit dolor culpa officia aliqua ea est sint dolore consectetur duis. Culpa aliquip laborum sunt tempor consectetur ut. Occaecat laboris Lorem proident exercitation deserunt ea. Aliquip cillum dolore id consequat quis dolore.
+
+Do fugiat et Lorem deserunt deserunt. Nostrud occaecat cillum anim sint aliquip sint. Ad nisi excepteur esse eu velit cupidatat sit est elit exercitation. Consequat laboris exercitation tempor esse.
+
+In irure ad officia laboris nisi incididunt excepteur duis proident ea laboris dolor velit. Culpa nostrud fugiat aliqua nisi consectetur enim consectetur consequat voluptate ad. Aliqua voluptate adipisicing ipsum et nisi labore quis ex est pariatur ad dolor cillum. Occaecat dolore duis consectetur ipsum officia. Proident sint sunt reprehenderit Lorem enim laborum fugiat.
                   </p>
 
                   <!-- <p class="text-black aboutxt">Wanacel Foundation is a non-profit making, non-partisan and non-religious NGO with a a clear vison
@@ -148,8 +143,13 @@
             <div class="block-heading-">
               <h2 class="section-title text-uppercase cepa-blue-text">What we do<span class="dot"></span></h2>
               <div class="section-content">
-                <p>Wanacel foundation is very much aimed at empowering women and the youth with the basic information communication technology (ICT) skills. This is important for the fact that with the growth of the ICT world, it is favorable for women and youth to be equipped with basic computer knowledge thus competing with other women
-                and youth from the outside world and making everyone informed of the global community where we live.</p>
+                <p>Aute duis officia commodo velit ipsum elit enim consequat consequat. Officia qui ullamco pariatur quis. Ipsum aliquip laborum magna qui non.
+
+Laboris laboris duis fugiat excepteur pariatur do. Nulla reprehenderit do velit duis sint nostrud consequat aliqua proident commodo aliqua labore occaecat. Excepteur ea nostrud quis cillum Lorem nostrud velit. Irure ullamco id do sint nostrud proident laborum magna nostrud labore tempor aliquip. Fugiat dolore qui ex exercitation sint elit velit ut.
+
+Dolore est et consequat culpa deserunt consequat fugiat fugiat qui culpa do consectetur dolor mollit. Consequat eu excepteur cupidatat irure excepteur laboris eiusmod. Amet commodo cupidatat officia quis voluptate aliquip laborum in velit commodo do. Nostrud sint anim sit sunt in qui duis do. Dolor consequat velit reprehenderit labore laboris velit mollit.
+
+Laborum reprehenderit nostrud quis ea in nostrud. Enim adipisicing anim amet amet in commodo sit aliquip sunt pariatur esse. Aliqua magna tempor duis voluptate labore pariatur aute cillum est. Reprehenderit proident excepteur ut labore in sint consectetur ea duis deserunt. Deserunt ullamco ut reprehenderit enim eiusmod sint cillum nostrud id adipisicing anim exercitation mollit commodo.</p>
               </div>
             </div>
           </div>
