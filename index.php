@@ -257,17 +257,17 @@ Laborum reprehenderit nostrud quis ea in nostrud. Enim adipisicing anim amet ame
           <div class="col-lg-4 col-md-6 mb-4 mb-lg-0" data-aos="fade-up">
             <div class="block-team-member-1 text-center rounded white-bg">
               <figure>
-                <img src="images/aceng_patricia.jpg" alt="Image" class="img-fluid rounded-circle">
+                <img src="images/..." alt="Image" class="img-fluid rounded-circle">
               </figure>
               <!-- <h3 class="font-size-20 text-white">Jean Smith</h3> -->
-              <h5>Patricia Aceng</h5>
+              <h5>Okullu Abel</h5>
               <span class="d-block font-gray-5 letter-spacing-1 text-uppercase font-size-12 mb-3">Executive Director</span>
 
               <!-- <p class="px-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, repellat. At, soluta. Repellendus vero, consequuntur!</p> -->
               <div class="block-social-1">
                 <a href="https://www.facebook.com/profile.php?id=100007867516025" class="btn border-w-2 rounded indigo-bg"><span class="icon-facebook"></span></a>
-                <a href="https://twitter.com/Patricia_Aceng" class="btn border-w-2 rounded indigo-bg"><span class="icon-twitter"></span></a>
-                <a href="https://www.instagram.com/acengpatricia" class="btn border-w-2 rounded indigo-bg"><span class="icon-instagram"></span></a>
+                <a href="https://twitter.com/" class="btn border-w-2 rounded indigo-bg"><span class="icon-twitter"></span></a>
+                <a href="https://www.instagram.com/" class="btn border-w-2 rounded indigo-bg"><span class="icon-instagram"></span></a>
               </div>
             </div>
           </div>
@@ -278,12 +278,12 @@ Laborum reprehenderit nostrud quis ea in nostrud. Enim adipisicing anim amet ame
                 <img src="images/2.jpg" alt="Image" class="img-fluid rounded-circle">
               </figure>
               <!-- <h3 class="font-size-20 text-white">Bob Carry</h3> -->
-              <h5>Frank Oyugi</h5>
+              <h5>person 2</h5>
               <span class="d-block font-gray-5 letter-spacing-1 text-uppercase font-size-12 mb-3">Director</span>
               <!-- <p class="px-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil quia veritatis, nam quam obcaecati fuga.</p> -->
               <div class="block-social-1">
-                <a href="https://www.facebook.com/frank.oyugi.5" class="btn border-w-2 rounded indigo-bg"><span class="icon-facebook"></span></a>
-                <a href="https://www.twitter.com/frankygold22" class="btn border-w-2 rounded indigo-bg"><span class="icon-twitter"></span></a>
+                <a href="https://www.facebook.com/" class="btn border-w-2 rounded indigo-bg"><span class="icon-facebook"></span></a>
+                <a href="https://www.twitter.com/" class="btn border-w-2 rounded indigo-bg"><span class="icon-twitter"></span></a>
 
               </div>
             </div>
@@ -294,13 +294,13 @@ Laborum reprehenderit nostrud quis ea in nostrud. Enim adipisicing anim amet ame
               <figure>
                 <img src="images/334.png" alt="Image" class="img-fluid rounded-circle">
               </figure>
-              <h5>Lawnsome Etum Akezi</h5>
+              <h5>Person 3</h5>
               <!-- <h3 class="font-size-20 text-white">Ricky Fisher</h3> -->
               <span class="d-block font-gray-5 letter-spacing-1 text-uppercase font-size-12 mb-3">Director</span>
               <!-- <p class="px-3 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas quidem, laudantium, illum minus numquam voluptas?</p> -->
               <div class="block-social-1">
-                <a href="https://www.facebook.com/etum.lawnsome" class="btn border-w-2 rounded indigo-bg"><span class="icon-facebook"></span></a>
-                <a href="https://www.twitter.com/etumakezi" class="btn border-w-2 rounded indigo-bg"><span class="icon-twitter"></span></a>
+                <a href="https://www.facebook.com/" class="btn border-w-2 rounded indigo-bg"><span class="icon-facebook"></span></a>
+                <a href="https://www.twitter.com/" class="btn border-w-2 rounded indigo-bg"><span class="icon-twitter"></span></a>
 
               </div>
             </div>
